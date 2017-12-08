@@ -1,0 +1,9 @@
+{
+  "code": "mystep-form",
+  "name": "MyStep Form",
+  "description": "MyStep&#39;s description",
+  "templates": {
+    "form": "<mystep-form></mystep-form>",
+    "view": "<mystep></mystep>"
+  }
+}
